@@ -1,0 +1,11 @@
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.xml
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.xml
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
